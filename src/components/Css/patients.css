@@ -1,0 +1,45 @@
+.user{
+    padding: 3px 6px 2px 5px;
+    background: rgb(230, 230, 236);
+    border-radius: 4px;
+    font-size: 18px;
+    border: 1px solid black;
+    transition: all 200ms 10ms linear;
+    cursor: pointer;
+    box-shadow: 0px 0px 2px gray;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.user:hover{
+    background: rgb(211, 211, 236);
+    transform: scale(1.1);
+    border: 1px solid cyan;
+    box-shadow: 0px 0px 5px cyan;
+}
+
+.user:active{
+    z-index: 500;
+    transform:scale(1.07);
+    transition: all 20ms linear;
+    background: rgb(208, 229, 255);
+
+
+}
+
+.tp{
+    background-color: transparent;
+}
+
+.search{
+    color: rgb(70, 68, 68);
+    font-size: 15px;
+    box-shadow: 0px 0px 1px rgb(227, 230, 234);
+    border-radius: 5px;
+    padding: 3px;
+    padding-left: 5px;
+}
+
+.m20{
+    margin:20px;
+}
+
