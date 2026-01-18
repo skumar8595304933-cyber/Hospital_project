@@ -1,5 +1,5 @@
 import './Css/doctors.css';
-import './Css/Patients.css';
+import './Css/patients.css';
 
 
 function Patients(){
