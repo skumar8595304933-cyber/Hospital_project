@@ -1,4 +1,4 @@
-import './Css/Hospital.css';
+import './Css/hospital.css';
 
 function Hospital(){
    return (
