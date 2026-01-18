@@ -1,4 +1,4 @@
-import './Css/Doctors.css';
+import './Css/doctors.css';
 
 function Doctors(){
    return (
